@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal Fox Channel (Colombia)">
+    <display-name lang="es">Cine TV: Fox Channel Full HD (CO)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210128014000 -0600" stop="20210128020000 -0600" channel="Canal Fox Channel (Colombia)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210128020000 -0600" stop="20210128023000 -0600" channel="Canal Fox Channel (Colombia)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210128023000 -0600" stop="20210128030000 -0600" channel="Canal Fox Channel (Colombia)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210128030000 -0600" stop="20210128032700 -0600" channel="Canal Fox Channel (Colombia)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210128032700 -0600" stop="20210128040000 -0600" channel="Canal Fox Channel (Colombia)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210128040000 -0600" stop="20210128063000 -0600" channel="Canal Fox Channel (Colombia)">
+    <title lang="es">Maze Runner: La Cura Mortal</title>
+  </programme>
+  <programme start="20210128063000 -0600" stop="20210128070000 -0600" channel="Canal Fox Channel (Colombia)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210128070000 -0600" stop="20210128073000 -0600" channel="Canal Fox Channel (Colombia)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210128073000 -0600" stop="20210128093000 -0600" channel="Canal Fox Channel (Colombia)">
+    <title lang="es">Eddie Reynolds y los ángeles de acero</title>
+  </programme>
+  <programme start="20210128093000 -0600" stop="20210128120000 -0600" channel="Canal Fox Channel (Colombia)">
+    <title lang="es">El código del miedo</title>
+  </programme>
+  <programme start="20210128120000 -0600" stop="20210128130000 -0600" channel="Canal Fox Channel (Colombia)">
+    <title lang="es">Cumbia Ninja</title>
+  </programme>
+  <programme start="20210128130000 -0600" stop="20210128133000 -0600" channel="Canal Fox Channel (Colombia)">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20210128133000 -0600" stop="20210128140000 -0600" channel="Canal Fox Channel (Colombia)">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20210128140000 -0600" stop="20210128143000 -0600" channel="Canal Fox Channel (Colombia)">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20210128143000 -0600" stop="20210128150000 -0600" channel="Canal Fox Channel (Colombia)">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20210128150000 -0600" stop="20210128160000 -0600" channel="Canal Fox Channel (Colombia)">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20210128160000 -0600" stop="20210128190000 -0600" channel="Canal Fox Channel (Colombia)">
+    <title lang="es">Cómo Entrenar a tu Dragón</title>
+  </programme>
+  <programme start="20210128190000 -0600" stop="20210128193000 -0600" channel="Canal Fox Channel (Colombia)">
+    <title lang="es">Fox Internacional</title>
+  </programme>
+  <programme start="20210128193000 -0600" stop="20210128200000 -0600" channel="Canal Fox Channel (Colombia)">
+    <title lang="es">Fox Internacional</title>
+  </programme>
+  <programme start="20210128200000 -0600" stop="20210128230000 -0600" channel="Canal Fox Channel (Colombia)">
+    <title lang="es">Una gran esperanza</title>
+  </programme>
+  <programme start="20210128230000 -0600" stop="20210128232500 -0600" channel="Canal Fox Channel (Colombia)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210128232500 -0600" stop="20210129000000 -0600" channel="Canal Fox Channel (Colombia)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+</tv>
